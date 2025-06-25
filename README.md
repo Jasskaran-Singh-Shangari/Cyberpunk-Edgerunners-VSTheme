@@ -1,3 +1,3 @@
 # Cyberpunk Edgerunners
 
-![Theme Preview](https://raw.githubusercontent.com/Jasskaran-Singh-Shangari/Nebula-Dark-VS-Theme/main/assets/FileExplorer.png)
+![Theme Preview](https://github.com/Jasskaran-Singh-Shangari/Cyberpunk-Edgerunners-VSTheme/blob/main/image_2025-06-25_152840642.png)
