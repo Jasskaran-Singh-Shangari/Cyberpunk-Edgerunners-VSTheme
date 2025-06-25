@@ -3,6 +3,8 @@
   "displayName": "cyberpunk-edgerunners",
   "description": "Inspired by Cyberpunk Edgerunners Anime",
   "version": "0.0.1",
+  "publisher":"REBEL-Osuda",
+  "icon": "assets/Edgerunners.jpg",
   "engines": {
     "vscode": "^1.101.0"
   },
